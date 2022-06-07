@@ -68,5 +68,7 @@
     "react-styleguidist": "^11.2.0",
     "webpack": "^5.72.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "react-markdown": "^8.0.3"
+  }
 }
